@@ -1,0 +1,2 @@
+# civtroopmanager
+Manage Civilization Troops
